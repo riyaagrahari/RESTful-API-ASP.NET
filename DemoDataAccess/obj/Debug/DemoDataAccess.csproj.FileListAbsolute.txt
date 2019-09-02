@@ -1,0 +1,12 @@
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\bin\Debug\DemoDataAccess.dll.config
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\bin\Debug\DemoDataAccess.dll
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\bin\Debug\DemoDataAccess.pdb
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\obj\Debug\DemoDataAccess.csprojAssemblyReference.cache
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\obj\Debug\DemoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\obj\Debug\DemoDataAccess.csproj.CopyComplete
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\obj\Debug\DemoDataAccess.dll
+C:\Users\Riya Agrahari\source\repos\Web-API-Demo\DemoDataAccess\obj\Debug\DemoDataAccess.pdb
